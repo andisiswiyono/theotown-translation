@@ -751,7 +751,7 @@
     <string name="roadinfo_title">Road</string>
     <string name="roadinfo_trafficlights_on">Traffic lights on</string>
     <string name="roadinfo_trafficlights_off">Traffic lights off</string>
-    <string name="notify_crime">We have some crime here. You should build more police stations or improve happiness.</string>
+    <string name="notify_crime">Kami mendapati beberapa tindak kejahatan di sini. Kamu harus membangun lebih banyak kantor polisi atau perbaiki tingkat kebahagiaan.</string>
     <string name="tutorial_buildbridge_a">Maybe we should improve traffic by building a main road. Select the country road.</string>
     <string name="tutorial_buildbridge_b">Tap on the start and the end point of the planned road. See how a bridge will be built automaticially over the river.</string>
     <string name="tutorial_buildbridge_c">So, we\'re done with building.</string>
@@ -959,7 +959,7 @@
     <string name="notify_loweducationneeded">I think it\'s time to give our children some education. Build an elementary school.</string>
     <string name="notify_higheducationneeded">Let\'s get some genius by building a high school.</string>
     <string name="dialog_ffwd1_text">Allows you to use faster game speed for %1$s.</string>
-    <string name="notify_badtraffic">There\'s too much traffic on this road. I recommend to build more or better roads.</string>
+    <string name="notify_badtraffic">Ada banyak kepadatan lalu lintas di jalan ini. Saya sarankan untuk membangun jalan yang lebih banyak atau lebih baik.</string>
     <string name="dialog_wb_title">Welcome back</string>
     <string name="dialog_wb_text">%1$s earned %2$s while you were absent.</string>
     <string name="notify_fullschool">This school is full. Build more of them, please.</string>
