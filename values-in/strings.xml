@@ -700,8 +700,8 @@
     <string name="draft_beach00_text">Dapatkan hari yang indah di pantai.</string>
     <string name="draft_biergarten00_title">Taman Beer</string>
     <string name="draft_biergarten00_text">Tempat yang bagus untuk beristirahat.</string>
-    <string name="notify_noreszone">People want to life in our town. Declare a residential zone for them.</string>
-    <string name="notify_nocomzone">Build a commercial zone so commercials may build in our city.</string>
+    <string name="notify_noreszone">Seseorang ingin tinggal di kota kita. Deklarasikan zona perumahan untuk mereka.</string>
+    <string name="notify_nocomzone">Bangun zona komersil so commercials may build in our city.</string>
     <string name="notify_noindzone">Industries may build in our city, but you have to declare zones for them first.</string>
     <string name="createcity_sizebigbigbig">Giant</string>
     <string name="locale">en</string>
